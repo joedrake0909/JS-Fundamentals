@@ -12,5 +12,5 @@ else if (args.length === 1)
 
 else
 {
-    console.log("Areguments found")
+    console.log("Arguments found")
 }
